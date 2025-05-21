@@ -7,7 +7,7 @@
 
 ---
 
-### About
+## About
 I am a versatile technology professional with expertise spanning data analytics and iOS development. With a strong foundation in Swift development and data science, I bring a unique perspective to projects by combining analytical rigor with intuitive user experience design. My background includes professional experience as a data trainee at Playpark Company Limited, where I implemented regression models for predictive analytics and developed data pipelines for business intelligence.
 
 During my academic career at Srinakharinwirot University (Computer Innovation for Communication), I've consistently demonstrated my ability to turn complex data into actionable insights while also creating functional and elegant iOS applications. My approach to problem-solving is domain-driven, focusing first on understanding the business needs before developing technical solutions.
