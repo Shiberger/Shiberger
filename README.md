@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hannarong or you can call me tonkra!
 
-**`iOS Developer`**
+**`iOS Developer`** **`Data Analyst`**
 
 ### 💼 **[My iOS Portfolio](https://github.com/Shiberger/hanna-iOS-Dev-Portfolio)**
 ### 💼 **[My Data Analyst Portfolio](https://github.com/Shiberger/hanna-iOS-Dev-Portfolio)**
