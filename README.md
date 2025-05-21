@@ -2,7 +2,8 @@
 
 **`iOS Developer`**
 
-### 💼 **[My GitHub Portfolio](https://github.com/Shiberger/hanna-iOS-Dev-Portfolio)**
+### 💼 **[My iOS Portfolio](https://github.com/Shiberger/hanna-iOS-Dev-Portfolio)**
+### 💼 **[My Data Analyst Portfolio](https://github.com/Shiberger/hanna-iOS-Dev-Portfolio)**
 
 ---
 
