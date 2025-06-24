@@ -2,9 +2,7 @@
 
 **`iOS Developer`** **`Data Analyst`** **`Flutter Learner`**
 
-### 💼 **[My iOS Portfolio](https://github.com/Shiberger/hanna-iOS-Dev-Portfolio)**
-### 💼 **[My Flutter Portfolio](https://github.com/Shiberger/hanna-DataAnalyst-Portfolio)**
-### 💼 **[My Data Analyst Portfolio](https://github.com/Shiberger/hanna-DataAnalyst-Portfolio)**
+### 💼 **[My iOS Portfolio](https://github.com/Shiberger/hanna-iOS-Dev-Portfolio)**, **[My Flutter Portfolio](https://github.com/Shiberger/hanna-DataAnalyst-Portfolio)**, **[My Data Analyst Portfolio](https://github.com/Shiberger/hanna-DataAnalyst-Portfolio)**
 
 ---
 
