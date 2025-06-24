@@ -1,9 +1,11 @@
 # 👋 Hi, I'm Hannarong or you can call me tonkra!
 
-**`iOS Developer`** **`Data Analyst`**
+**`iOS Developer`** **`Data Analyst`** **`Flutter Learner`**
 
 ### 💼 **[My iOS Portfolio](https://github.com/Shiberger/hanna-iOS-Dev-Portfolio)**
+### 💼 **[My Data Flutter Portfolio](https://github.com/Shiberger/hanna-DataAnalyst-Portfolio)**
 ### 💼 **[My Data Analyst Portfolio](https://github.com/Shiberger/hanna-DataAnalyst-Portfolio)**
+
 
 ---
 
