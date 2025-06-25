@@ -24,20 +24,20 @@ Web & Others : Next.js, TypeScript, HTML/CSS, Git
 ### HearCare (iOS / SwiftUI)
 A hearing health application developed in collaboration with medical professionals.
 
-Key Features: Implemented clinical-standard audiogram tests and rendered interactive results using Swift Charts.
+Key Features : Implemented clinical-standard audiogram tests and rendered interactive results using Swift Charts.
 
-Technology: SwiftUI, Firebase Authentication, Firestore
+Technology : SwiftUI, Firebase Authentication, Firestore
 
-Outcome: Created a tool that empowers users to self-assess potential hearing risks.
+Outcome : Created a tool that empowers users to self-assess potential hearing risks.
 
 🔗 [Source Code](https://github.com/Shiberger/HearCareApp)
 
 ### InGameShop (Flutter)
 An e-commerce application for in-game items, developed as a learning project.
 
-Key Features: Item listings and a functional shopping cart system.
+Key Features : Item listings and a functional shopping cart system.
 
-Technology: Flutter, Dart
+Technology : Flutter, Dart
 
 Outcome: A personal project to practice and understand cross-platform development concepts.
 
