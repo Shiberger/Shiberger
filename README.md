@@ -1,13 +1,11 @@
 # 👋 Hi, I'm Hannarong or you can call me tonkra!
 
-**`Mobile Developer`** **`iOS`** **`Flutter`**
-
-### **[iOS Application](https://github.com/Shiberger/hanna-iOS-Dev-Portfolio)** | **[Flutter Cross-Platfroms](https://github.com/Shiberger/hanna-DataAnalyst-Portfolio)**
+**`Software Developer`**
 
 ---
 
 ## About
-I'm a passionate Mobile Developer focused on creating impressive and intuitive user experiences on both iOS and Flutter. My strength lies in leveraging my data background to build smart, business-oriented features.
+I'm a passionate Software Developer focused on creating impressive and intuitive user experiences on both iOS and Flutter. My strength lies in leveraging my data background to build smart, business-oriented features.
 
 ## Tech Stack
 
@@ -17,7 +15,7 @@ Cross-Platform : Flutter, Dart
 
 Data & Backend : Python, SQL, Power BI, Javascript
 
-Web & Others : Next.js, TypeScript, HTML/CSS, Git
+Web & Others : Next.js, TypeScript, HTML/CSS
 
 ## Featured Projects
 
